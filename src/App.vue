@@ -16,6 +16,7 @@
         <span v-show="showBlinking">|</span>
       </div>
     </div>
+    <!-- www.nightprogrammer.com -->
   </div>
 </template>
 
